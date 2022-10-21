@@ -34,3 +34,4 @@ spec:
               version: 10.0.5.1
               profile: n1xc10.m48
               storageClassName: rook-ceph-block
+              allowUpgrade: true
